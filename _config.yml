@@ -1,0 +1,23 @@
+name: angelonfire
+favicon: null
+layout_spectrum: 0.011042313184589148
+typography_spectrum: 0.8863093017134815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6909869471564889
+  lightness: 0.2396991983987391
+  saturation: 0.6789278963115066
+  rhythmicContrast: 0.13712512981146574
+purpose: []
